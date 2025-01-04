@@ -69,7 +69,7 @@ Here’s the updated **How to Use** section for your `README.md` file with instr
 5. **View Dashboard Preview**  
    You can find a preview of the dashboard below:  
 
-   ![InsightSphereSalesAnalyticsProject](https://github.com/user-attachments/assets/e004b867-371a-4f15-bd84-0cce4f2f8273)
+  ![Screenshot (276)](https://github.com/user-attachments/assets/247b041a-dd8d-4bc3-a942-909e92783787)
 
 
 
